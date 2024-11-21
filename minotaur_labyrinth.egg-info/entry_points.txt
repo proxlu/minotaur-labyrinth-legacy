@@ -1,0 +1,2 @@
+[console_scripts]
+minotaur-labyrinth = minotaur_labyrinth.__main__:main

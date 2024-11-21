@@ -6,6 +6,7 @@ To run the game on your own computer, you have to clone this Github repository a
 
 ## Prerequisites 
 You must have [Python 3](https://www.python.org/downloads/) installed on your machine to play this game.
+
 shiv (pip install shiv) to compact this directory and run.
 
 ## Author

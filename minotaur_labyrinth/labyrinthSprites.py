@@ -2,7 +2,7 @@
 Name: proxlu
 Date: Oct 30, 2024
 
-Description: This module contains all of the sprites used in "The Labyrinth" game, 
+Description: This module contains all of the sprites used in "Minotaur Labyrinth" game, 
              including the Player, Stone, Countdown, GearPieces, GearTracker, HealthKeeper, 
              and the Minotaur. It imports the Pygame and Random module for use.
 """

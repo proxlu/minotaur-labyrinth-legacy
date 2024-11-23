@@ -2,7 +2,7 @@
 Name: proxlu
 Date: Oct 30, 2024
 
-Description: "The Labyrinth" is a survival-maze game in which the player, Theseus,
+Description: "Minotaur Labyrinth" is a survival-maze game in which the player, Theseus,
               must survive the trials of the Labyrinth by finding and killing the Minotaur.
               
               The Player is controlled using the arrow keys, and the Minotaur is controlled
